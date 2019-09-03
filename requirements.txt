@@ -1,7 +1,7 @@
 numpy
 scipy
 astropy
-mpi4py
+mpi4py>=3.0.0
 six
 runtests
 pmesh
